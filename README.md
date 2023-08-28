@@ -1,4 +1,3 @@
-![image](https://github.com/wendrellBr/Task_noter/assets/90914846/540a5d6a-dbf5-400b-92c5-e92841e59453)# Task_noter
 
 A web application that offers users a streamlined and efficient way to manage their daily tasks. Designed to make it easy to keep track of responsibilities, the app lets you intuitively add, mark as complete, and remove tasks.
 
